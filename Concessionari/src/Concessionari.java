@@ -165,7 +165,7 @@ System.out.println("Els kms que té son: "+kms);
  */
 public class Concessionari {
 
-    /**
+     /**
      * Un concessionari vol una aplicació per a tindre un control dels 
      * vehicles que ven. Crea una aplicació anomenada Concessionari. 
      * Allí crea la classe Cotxe. De moment, sense atributs ni mètodes. 
