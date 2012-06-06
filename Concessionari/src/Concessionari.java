@@ -187,7 +187,7 @@ Cotxe c1 = new Cotxe();
 
 Cotxe cotxeMeu = new Cotxe();
 
-   Cotxe cotxeTeu = new Cotxe(34645646, "", "Ford", "Focus", "Verd", 10000);
+   Cotxe cotxeTeu = new Cotxe(34645646, "", "Citroen", "Xsara", "Blau", 10000);
     
     }
 }
